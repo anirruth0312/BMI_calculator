@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba3a4127.chunk.css",
-    "main.js": "/static/js/main.cce69649.chunk.js",
-    "main.js.map": "/static/js/main.cce69649.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d935bac7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d935bac7.js.map",
-    "static/js/2.548e73ec.chunk.js": "/static/js/2.548e73ec.chunk.js",
-    "static/js/2.548e73ec.chunk.js.map": "/static/js/2.548e73ec.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ba3a4127.chunk.css.map": "/static/css/main.ba3a4127.chunk.css.map",
-    "static/js/2.548e73ec.chunk.js.LICENSE.txt": "/static/js/2.548e73ec.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/1.d25d07f1.jpg",
-    "static/media/Card.css": "/static/media/2.96201be1.jpg"
+    "main.css": "/bmi_calculator/static/css/main.b824cbfb.chunk.css",
+    "main.js": "/bmi_calculator/static/js/main.cce69649.chunk.js",
+    "main.js.map": "/bmi_calculator/static/js/main.cce69649.chunk.js.map",
+    "runtime-main.js": "/bmi_calculator/static/js/runtime-main.3ac28fd6.js",
+    "runtime-main.js.map": "/bmi_calculator/static/js/runtime-main.3ac28fd6.js.map",
+    "static/js/2.548e73ec.chunk.js": "/bmi_calculator/static/js/2.548e73ec.chunk.js",
+    "static/js/2.548e73ec.chunk.js.map": "/bmi_calculator/static/js/2.548e73ec.chunk.js.map",
+    "index.html": "/bmi_calculator/index.html",
+    "static/css/main.b824cbfb.chunk.css.map": "/bmi_calculator/static/css/main.b824cbfb.chunk.css.map",
+    "static/js/2.548e73ec.chunk.js.LICENSE.txt": "/bmi_calculator/static/js/2.548e73ec.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bmi_calculator/static/media/1.d25d07f1.jpg",
+    "static/media/Card.css": "/bmi_calculator/static/media/2.96201be1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d935bac7.js",
+    "static/js/runtime-main.3ac28fd6.js",
     "static/js/2.548e73ec.chunk.js",
-    "static/css/main.ba3a4127.chunk.css",
+    "static/css/main.b824cbfb.chunk.css",
     "static/js/main.cce69649.chunk.js"
   ]
 }
